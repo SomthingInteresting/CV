@@ -1,6 +1,6 @@
-## Your Name
+## Quddus Rahman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are. Then a sentence about what you've achieved. I'm enjoy solving complex problems, making life easier and better for all. I'm excited to see what the future holds in tech. 
 
 ## Projects
 
@@ -11,13 +11,35 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Leaf Living (Blackstone & Regis Plc)** (December 2021 to November 2022)  
+_Acquisitions Associate_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Regis Plc** (September 2020 to December 2021)  
+_Acquisitions Associate_
+
+- Any experience relevent to software development
+
+**Consensus Business Group** (November 2015 to September 2020)  
+_Acquisitions Analyst_
+
+- Any experience relevent to software development
+
+**Estates & Management** (March 2014 to October 2015)  
+_Acquisitions Analyst_
+
+- Any experience relevent to software development
+
+## Voluntary Experience
+
+**Raleigh International** (October 2013 to December 2013)  
+_Borneo Volunteer_
+
+- Any experience relevent to software development
+
+**Crisis** (December 2015)  
+_Main Hub Volunteer_
 
 - Any experience relevent to software development
 
@@ -45,7 +67,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2023 to May 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,16 +76,19 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Middlesex University (October 2010 to July 2013)
 
-- Subject, any specialisms
-- Grade
+- BA Honours in Business Management
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
 
+Associate RICS
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Avid motorcyclist that likes to 
+
+Robotics - 
