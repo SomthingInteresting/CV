@@ -1,13 +1,25 @@
 ## Quddus Rahman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. I'm enjoy solving complex problems, making life easier and better for all. I'm excited to see what the future holds in tech. 
+Software engineering bootcamp graduate from leading provider, with over 8 years experience in property investment and analysis.
+
+## Profile
+
+I'm an enthusiastic and curious full stack junior software engineer who enjoys creative problem solving, making things, following processes, and working in a team.
+
+As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Mongodb, PostgreSQL, Express, HTML, CSS.
+
+Prior to training as a developer, I worked in property investments on the acquisitions side which involved data analysis, working with various stakeholders, presenting to C-Suite. During this time I honed my communication, strategic, and business acumen skills.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                 | Description                                                               |Group/Solo           | Technologies        |
+|:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+|[Moangoose](https://github.com/somthinginteresting/acebook-mern-fire) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
+|[Bank Tech Test](https://github.com/somethinginteresting/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
+|[Bowling Challenge](https://github.com/somthinginteresting/bowling-challenge) | A bowling score calculator that runs in the terminal with node | Solo | JavaScript, Node, Jest | 
+|[MakersBNB](https://github.com/somthinginteresting/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
+|[Chitter](https://github.com/somthinginteresting/chitter-challenge) | A Twitter clone which enables users to sign up, sign in, view posts, and create new posts | Solo | Ruby, RSpec, PostgreSQL, Sinatra |
+|[Study Buddy](https://github.com/somthinginteresting/study-buddy) | A study web app that has AI integration | Group | MERN |
 
 ## Work Experience
 
