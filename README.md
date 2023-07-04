@@ -6,7 +6,7 @@ Software engineering bootcamp graduate from leading provider, with over 8 years 
 
 I'm an enthusiastic and curious full stack junior software engineer who enjoys creative problem solving, making things, following processes, and working in a team.
 
-As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Cypress, MongoDB, PostgreSQL, Express, HTML, CSS, Open AI api. I'm currently learning Python and Rust. 
+As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Cypress, MongoDB, PostgreSQL, Express, HTML, CSS, Open AI api.  I'm currently learning Python and Rust. 
 
 Prior to training as a developer, I worked in property investments on the acquisitions side which involved data analysis, working with various stakeholders, presenting to C-Suite. During this time I honed my communication, strategic, and business acumen skills.
 
