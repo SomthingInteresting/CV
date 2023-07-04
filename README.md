@@ -1,4 +1,4 @@
-## Quddus Rahman
+# Quddus Rahman: Full Stack Software Engineer
 
 Software engineering bootcamp graduate from leading provider, with over 8 years experience in property investment and analysis.
 
