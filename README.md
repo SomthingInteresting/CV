@@ -10,7 +10,7 @@ As a Makers Academy graduate, I'm skilled at working in agile environments, test
 
 Prior to training as a developer, I worked in property investments on the acquisitions side which involved data analysis, working with various stakeholders, presenting to C-Suite. During this time I honed my communication, strategic, and business acumen skills.
 
-## Projects
+## Select Projects
 
 | Name                 | Description                                                               |Group/Solo           | Technologies        |
 |:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
@@ -26,81 +26,83 @@ Prior to training as a developer, I worked in property investments on the acquis
 **Leaf Living (Blackstone & Regis Plc)** (December 2021 to November 2022)  
 _Acquisitions Associate_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Managed project timelines and conducted quality assurance tasks, showcasing project management and code review abilities, crucial for Software Development Life Cycle (SDLC). Utilised problem-solving skills in evaluating investment portfolios, similar to debugging and algorithm optimisation. Showcased communication and presentation skills with senior executives.
+
+Key achievement: Secured a £132m portfolio within 3 months, demonstrating adaptability and result-oriented approach.
 
 **Regis Plc** (September 2020 to December 2021)  
 _Acquisitions Associate_
 
-- Any experience relevent to software development
+Led a team and oversaw due diligence, reflecting leadership and risk management skills vital in software quality assurance. Applied financial modelling skills, comparable to algorithmic problem-solving.
+
+Key achievement: Appraised a £80m portfolio, highlighting analytical thinking and problem-solving.
 
 **Consensus Business Group** (November 2015 to September 2020)  
 _Acquisitions Analyst_
 
-- Any experience relevent to software development
+Appraised complex investment opportunities requiring analytical thinking, crucial in software architecture. Took ownership of transactions, a parallel to project ownership in software development. Ensured the company's interests were protected, emphasising attention to detail, important in debugging.
+
+Key achievement: Managed 100+ deals, demonstrating project management skills and the ability to handle multiple tasks concurrently.
 
 **Estates & Management** (March 2014 to October 2015)  
 _Acquisitions Analyst_
 
-- Any experience relevent to software development
+Provided training to employees, showcasing leadership and mentoring abilities. Regularly corresponded with various stakeholders, demonstrating strong communication skills and stakeholder management.
+
+Key achievement: Rapid promotions to Senior Administrator and Team Leader, reflecting quick learning and adaptability, essential in the evolving tech industry
 
 ## Voluntary Experience
 
 **Raleigh International** (October 2013 to December 2013)  
 _Borneo Volunteer_
 
-- Any experience relevent to software development
+Leveraged key soft skills such as interpersonal communication, problem-solving, leadership, and adaptability, managing diverse tasks and collaborating effectively in a dynamic, service-oriented environment.
 
 **Crisis** (December 2015)  
 _Main Hub Volunteer_
 
-- Any experience relevent to software development
+Applied adaptability, teamwork, and problem-solving skills, contributing to sustainable development projects in a diverse and challenging environment.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+Leveraged strong communication skills in a diverse range of roles, from dealing with c-suite and senior employees from partner companies in an acquisitions role, to coordinating with multiple teams in a developer role, to liaising with diverse stakeholders in my AssocRICS role. Known for my ability to convey complex technical information in a clear, accessible manner.
 
-#### Another skill
+#### Problem Solving
+Exhibited sharp problem-solving skills throughout my career, from enhancing operation functions in property acquisition to developing efficient code and debugging issues during my software development bootcamp. Consistently known for finding creative solutions to complex challenges.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Project Management
+Demonstrated proficiency in managing complex projects from inception to completion in multiple roles, including overseeing large-scale property transactions and successfully delivering software development projects on time and within scope during my bootcamp training.
 
-#### Another skill
+#### Analytical Skills
+Developed robust analytical skills during my career in property investment, appraising large portfolios and conducting detailed market research. Further honed these skills during my software development bootcamp, where I engaged in complex problem-solving and coding challenges.
 
+#### Leadership
+Exhibited leadership potential by supervising analysts in an Acquisitions Associate role, leading marketing and branding efforts, and rapidly progressing to team leadership positions in an asset management company.
 
 ## Education
 
-#### Makers Academy (February 2023 to May 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (February 2023 to June 2023)
+- Developed proficiency in Ruby, JavaScript, React, SQL, and testing frameworks.
+- Demonstrated adaptability through quick acquisition of new languages and tools to achieve tech neutrality.
+Key projects include:
+- Developing a series of social networking applications with features for posting content and liking posts.
+- Utilised a tech stack comprising Ruby or JavaScript, React, PostgreSQL, ActiveRecord, MongoDB, and Express.
+- Conducted comprehensive testing using RSpec, JEST, and Cypress.
+- Worked within Agile teams, embracing XP values, pair programming, continuous integration/delivery (CI/CD), and efficient Git workflows.
+
 
 #### Middlesex University (October 2010 to July 2013)
 
 - BA Honours in Business Management
 - 2:1
-- Other cool stuff
 
-#### Any other qualifications
+#### Associate RICS
+Demonstrating a proven commitment to professionalism, ethical conduct, and high standards. Developed strong analytical abilities through conducting inspections and valuations, honed communication skills by liaising with diverse stakeholders, and gained substantial project management experience. Ready to transfer and adapt these skills to the tech industry, contributing to successful software development projects.
 
-Associate RICS
-That in some arguable way make you a better software developer or well-rounded person
+## Interests
 
-## Hobbies
+- Motorcycling: Appreciate the technical aspects, always dreaming of the next big international trip.
+- Travelling: Enjoy experiencing different cultures and environments, preferring adventures over beach holidays.
+- Music: Eclectic taste, from the intense soundtracks of Hans Zimmer to the upbeat tracks of Glass Animals.
 
-Avid motorcyclist that likes to 
-
-Robotics - 
