@@ -97,7 +97,7 @@ Key projects include:
 - BA Honours in Business Management
 - 2:1
 
-#### Associate RICS
+#### Associate RICS (Royal Institution of Chartered Surveyors) Member
 Demonstrating a proven commitment to professionalism, ethical conduct, and high standards. Developed strong analytical abilities through conducting inspections and valuations, honed communication skills by liaising with diverse stakeholders, and gained substantial project management experience. Ready to transfer and adapt these skills to the tech industry, contributing to successful software development projects.
 
 ## Interests
