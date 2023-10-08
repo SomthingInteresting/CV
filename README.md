@@ -1,5 +1,7 @@
 # Quddus Rahman: Full Stack Software Engineer
 
+[Personal Portfolio](https://qrahman.com/) | [LinkedIn](https://www.linkedin.com/in/quddusrahman/)
+
 Software engineering bootcamp graduate from leading provider, with over 8 years experience in property investment and analysis.
 
 ## Profile
