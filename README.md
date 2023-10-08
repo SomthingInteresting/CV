@@ -20,6 +20,8 @@ Prior to training as a developer, I worked in property investments on the acquis
 |[MakersBNB](https://github.com/somthinginteresting/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
 |[Chitter](https://github.com/somthinginteresting/chitter-challenge) | A Twitter clone which enables users to sign up, sign in, view posts, and create new posts | Solo | Ruby, RSpec, PostgreSQL, Sinatra |
 |[Study Buddy](https://github.com/somthinginteresting/study-buddy) | A study web app that has AI integration | Group | MERN |
+|[IG Group Dashboard](https://github.com/SomthingInteresting/IG_API_Test) | Developed over an afternoon to learn how to use the IG Group API to build a dashboard using Java | Solo | Java |
+
 
 ## Work Experience
 
